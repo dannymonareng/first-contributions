@@ -2125,6 +2125,7 @@ anokh
 - [Aakanksha Desai](https://github.com/Aakanksha-Desai)
 - [Rushin Shah](https://github.com/RushinShah22)
 - [Horribleness](https://github.com/Horribleness)
+- [Danny Monareng](https://github.com/DannyMonareng)
 - [Luke Simone](https://github.com/lukesnc)
 - [Tony Ube](https://github.com/tuta-bits)
 - [Jose Medina](https://github.com/JoseMedina24)
